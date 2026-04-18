@@ -1,0 +1,17 @@
+C:\Users\dario\Desktop\tarea ashanti\Calculadora\Tarea4_Apuestas\Tarea4_Apuestas\bin\Debug\net8.0-windows\Tarea4_Apuestas.exe
+C:\Users\dario\Desktop\tarea ashanti\Calculadora\Tarea4_Apuestas\Tarea4_Apuestas\bin\Debug\net8.0-windows\Tarea4_Apuestas.deps.json
+C:\Users\dario\Desktop\tarea ashanti\Calculadora\Tarea4_Apuestas\Tarea4_Apuestas\bin\Debug\net8.0-windows\Tarea4_Apuestas.runtimeconfig.json
+C:\Users\dario\Desktop\tarea ashanti\Calculadora\Tarea4_Apuestas\Tarea4_Apuestas\bin\Debug\net8.0-windows\Tarea4_Apuestas.dll
+C:\Users\dario\Desktop\tarea ashanti\Calculadora\Tarea4_Apuestas\Tarea4_Apuestas\bin\Debug\net8.0-windows\Tarea4_Apuestas.pdb
+C:\Users\dario\Desktop\tarea ashanti\Calculadora\Tarea4_Apuestas\Tarea4_Apuestas\obj\Debug\net8.0-windows\Tarea4_Apuestas.Apostador.resources
+C:\Users\dario\Desktop\tarea ashanti\Calculadora\Tarea4_Apuestas\Tarea4_Apuestas\obj\Debug\net8.0-windows\Tarea4_Apuestas.csproj.GenerateResource.cache
+C:\Users\dario\Desktop\tarea ashanti\Calculadora\Tarea4_Apuestas\Tarea4_Apuestas\obj\Debug\net8.0-windows\Tarea4_Apuestas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\Desktop\tarea ashanti\Calculadora\Tarea4_Apuestas\Tarea4_Apuestas\obj\Debug\net8.0-windows\Tarea4_Apuestas.AssemblyInfoInputs.cache
+C:\Users\dario\Desktop\tarea ashanti\Calculadora\Tarea4_Apuestas\Tarea4_Apuestas\obj\Debug\net8.0-windows\Tarea4_Apuestas.AssemblyInfo.cs
+C:\Users\dario\Desktop\tarea ashanti\Calculadora\Tarea4_Apuestas\Tarea4_Apuestas\obj\Debug\net8.0-windows\Tarea4_Apuestas.csproj.CoreCompileInputs.cache
+C:\Users\dario\Desktop\tarea ashanti\Calculadora\Tarea4_Apuestas\Tarea4_Apuestas\obj\Debug\net8.0-windows\Tarea4_Apuestas.dll
+C:\Users\dario\Desktop\tarea ashanti\Calculadora\Tarea4_Apuestas\Tarea4_Apuestas\obj\Debug\net8.0-windows\refint\Tarea4_Apuestas.dll
+C:\Users\dario\Desktop\tarea ashanti\Calculadora\Tarea4_Apuestas\Tarea4_Apuestas\obj\Debug\net8.0-windows\Tarea4_Apuestas.pdb
+C:\Users\dario\Desktop\tarea ashanti\Calculadora\Tarea4_Apuestas\Tarea4_Apuestas\obj\Debug\net8.0-windows\Tarea4_Apuestas.genruntimeconfig.cache
+C:\Users\dario\Desktop\tarea ashanti\Calculadora\Tarea4_Apuestas\Tarea4_Apuestas\obj\Debug\net8.0-windows\ref\Tarea4_Apuestas.dll
+C:\Users\dario\Desktop\tarea ashanti\Calculadora\Tarea4_Apuestas\Tarea4_Apuestas\obj\Debug\net8.0-windows\Tarea4_Apuestass.Apostador.resources
