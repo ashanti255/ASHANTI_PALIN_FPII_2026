@@ -1,0 +1,16 @@
+C:\Users\dario\Desktop\tarea ashanti\loteria\loteria\loteria\obj\Debug\net8.0-windows\loteria.csproj.GenerateResource.cache
+C:\Users\dario\Desktop\tarea ashanti\loteria\loteria\loteria\obj\Debug\net8.0-windows\loteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\Desktop\tarea ashanti\loteria\loteria\loteria\obj\Debug\net8.0-windows\loteria.AssemblyInfoInputs.cache
+C:\Users\dario\Desktop\tarea ashanti\loteria\loteria\loteria\obj\Debug\net8.0-windows\loteria.AssemblyInfo.cs
+C:\Users\dario\Desktop\tarea ashanti\loteria\loteria\loteria\obj\Debug\net8.0-windows\loteria.csproj.CoreCompileInputs.cache
+C:\Users\dario\Desktop\tarea ashanti\loteria\loteria\loteria\bin\Debug\net8.0-windows\loteria.exe
+C:\Users\dario\Desktop\tarea ashanti\loteria\loteria\loteria\bin\Debug\net8.0-windows\loteria.deps.json
+C:\Users\dario\Desktop\tarea ashanti\loteria\loteria\loteria\bin\Debug\net8.0-windows\loteria.runtimeconfig.json
+C:\Users\dario\Desktop\tarea ashanti\loteria\loteria\loteria\bin\Debug\net8.0-windows\loteria.dll
+C:\Users\dario\Desktop\tarea ashanti\loteria\loteria\loteria\bin\Debug\net8.0-windows\loteria.pdb
+C:\Users\dario\Desktop\tarea ashanti\loteria\loteria\loteria\obj\Debug\net8.0-windows\loteria.Form1.resources
+C:\Users\dario\Desktop\tarea ashanti\loteria\loteria\loteria\obj\Debug\net8.0-windows\loteria.dll
+C:\Users\dario\Desktop\tarea ashanti\loteria\loteria\loteria\obj\Debug\net8.0-windows\refint\loteria.dll
+C:\Users\dario\Desktop\tarea ashanti\loteria\loteria\loteria\obj\Debug\net8.0-windows\loteria.pdb
+C:\Users\dario\Desktop\tarea ashanti\loteria\loteria\loteria\obj\Debug\net8.0-windows\loteria.genruntimeconfig.cache
+C:\Users\dario\Desktop\tarea ashanti\loteria\loteria\loteria\obj\Debug\net8.0-windows\ref\loteria.dll
